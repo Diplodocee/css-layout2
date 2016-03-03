@@ -13,6 +13,8 @@ body {
 }
 
 .box {
+  margin-top: 120px;
+  padding: 10px;
 }
 
 .box:last-child {
