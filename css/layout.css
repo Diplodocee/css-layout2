@@ -1,1 +1,55 @@
 /*your custom CSS here*/
+body {
+}
+
+.heading {
+  position:fixed;
+  top: 30px;
+  left: 20px;
+  right: 20px;
+}
+
+.heading h1 {
+}
+
+.box {
+}
+
+.box:last-child {
+}
+
+.box h2 {
+}
+
+.box img {
+  width: 100%;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.box:hover {
+  border-style: dashed;
+  border-width: 3px;
+  border-color: orange;
+}
+
+.box a.read-more {
+}
+
+.floater {
+    position: fixed;
+    bottom: 80;
+    right: 0;
+    width: 300px;
+    border: 3px solid black;
+    padding: 20px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 2px;
+  border: 2px solid #eee;
+}
