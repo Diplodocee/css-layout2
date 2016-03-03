@@ -32,7 +32,7 @@ body {
 .box:hover {
   border-style: dashed;
   border-width: 3px;
-  border-color: blue;
+  border-color: orange;
 }
 
 .box a.read-more {
