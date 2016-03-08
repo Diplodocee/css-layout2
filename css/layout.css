@@ -6,11 +6,14 @@ body {
   margin:auto;
   width: 80%;
   height: 288px;
-  text-align:center;
 }
 
 .heading h1 {
-  vertical-align: middle;
+  color: #FFFFFF;
+  font-size:50px;
+  text-align: center;
+  width:100%;
+  padding-top: 150px;
 }
 
 .box {
