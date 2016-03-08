@@ -3,7 +3,8 @@ body {
 }
 
 .heading {
-  width:80%;
+  left: 10%;
+  right: 10%;
   height: 288px;
   text-align:center;
 }
