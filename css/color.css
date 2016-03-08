@@ -23,6 +23,7 @@ a:hover {
 .heading {
   background-color: #999;
   background-image: url("https://utopianformula.files.wordpress.com/2013/02/aacropped-planet_earth_by_sanmonku.jpg");
+  background-position: center;
 }
 
 h1 small {
