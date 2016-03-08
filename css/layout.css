@@ -3,6 +3,7 @@ body {
 }
 
 .heading {
+  margin: auto;
   width: 100%;
   max-width: 1500px;
   height: 200px;
