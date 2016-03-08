@@ -10,6 +10,7 @@ body {
 }
 
 .heading h1 {
+  vertical-align: middle;
 }
 
 .box {
